@@ -1,2 +1,2 @@
-My budget-app project didn't pass the last test from the freecodecamp site, so to keep going and claim the certification I searched for the project online and pasted it. I tried many times with different tests and the ouput is exactly the same in both versions.
-I know the problems are whitespace and newline characters, but I had to move on.
+My budget-app project didn't pass the last test from the freecodecamp site, so to keep going and claim the certification I searched for the project online and pasted it. I tested both versions and their output is exactly the same.
+I know the problems are whitespace and newline characters, but I am wasting my time trying to figure out blindly what the freecodecamp program exactly wants, so it's time to move on.
